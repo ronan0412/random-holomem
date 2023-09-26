@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(233, 229, 229);
+}
+#title {
+    color: rgb(255, 255, 255);
+    background-color: rgba(117, 117, 117, 0.887);
+}
+#holoname-jp {
+    color:#063F5C;
+}
+#holoname-en {
+    color:#063F5C;
+}
